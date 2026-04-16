@@ -1,6 +1,6 @@
 # ❤️ Heart Disease Prediction using Machine Learning
 
-<img src="https://i.postimg.cc/Vvbhnscg/Heart-Disease.png" width="600">
+<img src="![alt text](https://i.postimg.cc/Vvbhnscg/Heart-Disease.png)" width="600">
 
 ## 🧠 Problem Statement
 
