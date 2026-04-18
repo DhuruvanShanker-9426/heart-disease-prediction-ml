@@ -83,7 +83,7 @@ The model was evaluated using:
 ## 🌳 Decision Tree Visualization
 
 The trained decision tree was visualized to understand how features influence predictions.<br/>
-
+[Heart-Disease-Decision-Tree.png](https://postimg.cc/Mv5vJ9SH)
 <img src ="https://i.postimg.cc/fRnXXPqc/Heart-Disease-Decision-Tree.png" height=300 width=400/>
 
 ---
