@@ -86,6 +86,8 @@ The trained decision tree was visualized to understand how features influence pr
 [Heart-Disease-Decision-Tree.png](https://postimg.cc/Mv5vJ9SH)
 <img src ="https://i.postimg.cc/fRnXXPqc/Heart-Disease-Decision-Tree.png" height=300 width=400/>
 
+<img src="https://i.postimg.cc/xC9R4RmD/Heart-Disease-Decision-Tree.png" width="600">
+
 ---
 
 ## 📊 Feature Importance
