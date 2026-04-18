@@ -1,6 +1,6 @@
 # ❤️ Heart Disease Prediction using Machine Learning
 
-<img src="images/Heart-Disease.png" width="100%">
+<img src="images/Heart_Disease.png" width="100%">
 
 ## 🧠 Problem Statement
 
@@ -86,7 +86,7 @@ The model was evaluated using:
 
 The trained decision tree was visualized to understand how features influence predictions.
 
-<img src="images/Heart-Disease-Decision-Tree.png" width="100%">
+<img src="images/Heart_Disease_Decision_Tree.png" width="100%">
 
 ---
 
