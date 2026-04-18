@@ -1,5 +1,7 @@
 # ❤️ Heart Disease Prediction using Machine Learning
 
+<img src="images/Heart-Disease.png" width="100%">
+
 ## 🧠 Problem Statement
 
 The goal of this project is to develop a machine learning model that predicts whether a patient has heart disease based on medical attributes.
@@ -84,7 +86,7 @@ The model was evaluated using:
 
 The trained decision tree was visualized to understand how features influence predictions.
 
-<img src="https://i.postimg.cc/xC9R4RmD/Heart-Disease-Decision-Tree.png" width="600">
+<img src="images/Heart-Disease-Decision-Tree.png" width="100%">
 
 ---
 
